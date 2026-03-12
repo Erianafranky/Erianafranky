@@ -2,23 +2,18 @@
 
 💻 Software Engineer based in Nairobi, Kenya.
 
-I enjoy building web applications and learning new technologies.
+Passionate about building web applications and learning new technologies.
 
-## Technologies I Use
-- React
-- Python
-- Flask
-- JavaScript
-- NextJs
-- HTML & CSS
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,python,flask,js,Next.js,html,css,git,github,vscode,mysql" />
+</p>
 
 ## Current Focus
 - Building real-world projects
 - Contributing to open source
 - Growing as a full-stack developer
-
-## Connect With Me
-LinkedIn: https://www.linkedin.com/in/dorothy-oganda
 
 ## 📊 GitHub Stats
 
@@ -29,5 +24,13 @@ LinkedIn: https://www.linkedin.com/in/dorothy-oganda
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Erianafranky)
+
+## 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dorothy%20Oganda-blue?logo=linkedin)](https://www.linkedin.com/in/dorothy-oganda)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Erianafranky)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Erianafranky)
 
 
