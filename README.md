@@ -7,7 +7,7 @@ Passionate about building web applications and learning new technologies.
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,python,flask,js,Next.js,html,css,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=react,python,flask,js,html,css,git,github,vscode,mysql" />
 </p>
 
 ## Current Focus
