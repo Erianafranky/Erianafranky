@@ -19,3 +19,15 @@ I enjoy building web applications and learning new technologies.
 
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/dorothy-oganda
+
+## 📊 GitHub Stats
+
+![Dorothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erianafranky&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erianafranky&layout=compact)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Erianafranky)
+
+
